@@ -1,0 +1,38 @@
+table, td, th {
+    border: 1px solid black;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 50%;
+  }
+
+  body{
+
+background-color: darkkhaki;
+
+
+  }
+
+
+
+.nir {
+
+background-color: aqua;
+
+}
+
+
+.run {
+
+background-color: aqua;
+
+}
+
+td{
+
+background-color: white;
+
+}
+
+

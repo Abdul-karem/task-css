@@ -1,0 +1,35 @@
+
+.nav1 li{
+
+    float: right;
+}
+.nav1 ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:white;
+
+}
+.nav1 a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+.par2
+{
+background-color: orange;
+height: 200px;
+width: 40%;
+
+}
+.par2 ul li{
+
+ float: left;
+ 
+display: block;
+}
